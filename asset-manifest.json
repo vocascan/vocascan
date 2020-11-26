@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vocascan/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/vocascan/static/js/main.6958ea4f.chunk.js",
+    "main.js.map": "/vocascan/static/js/main.6958ea4f.chunk.js.map",
+    "runtime-main.js": "/vocascan/static/js/runtime-main.320f1b51.js",
+    "runtime-main.js.map": "/vocascan/static/js/runtime-main.320f1b51.js.map",
+    "static/js/2.83fb94fc.chunk.js": "/vocascan/static/js/2.83fb94fc.chunk.js",
+    "static/js/2.83fb94fc.chunk.js.map": "/vocascan/static/js/2.83fb94fc.chunk.js.map",
+    "static/js/3.8521ea71.chunk.js": "/vocascan/static/js/3.8521ea71.chunk.js",
+    "static/js/3.8521ea71.chunk.js.map": "/vocascan/static/js/3.8521ea71.chunk.js.map",
+    "index.html": "/vocascan/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/vocascan/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.83fb94fc.chunk.js.LICENSE.txt": "/vocascan/static/js/2.83fb94fc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vocascan/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.320f1b51.js",
+    "static/js/2.83fb94fc.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6958ea4f.chunk.js"
+  ]
+}
